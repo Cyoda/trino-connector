@@ -1,6 +1,6 @@
 # README #
 
-[![Run unit tests with Maven](https://github.com/Cyoda-platform/trino-connector/actions/workflows/test-on-push.yml/badge.svg)](https://github.com/Cyoda-platform/trino-connector/actions/workflows/test-on-push.yml)
+[![Run unit tests with Maven](https://github.com/Cyoda/trino-connector/actions/workflows/test-on-push.yml/badge.svg)](https://github.com/Cyoda/trino-connector/actions/workflows/test-on-push.yml)
 
 # Cyoda for Trino
 
